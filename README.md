@@ -2,6 +2,8 @@
 ## 1.Counter App
 ## 2.Input-binder
 ## 3.To-Do-App
-## 4.Tic-Tac-Toe
-## 5.Quiz app
-## 6.Landing page using styled components.
+## 4.Landing page using styled components.
+## 5.Understanding react-router
+## 6.Tic-Tac-Toe
+## 7.Quiz app
+
